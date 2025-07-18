@@ -7,6 +7,6 @@ this model is Speech-to-Text part of the project Pharmacist Dispense Skill Asses
         <img src="./src/train loss.png" width="50%"/>
     </a>
     <a href="./">
-        <img src="./src/eval loss.png width="50%"/>
+        <img src="./src/eval loss.png" width="50%"/>
     </a>
 </div>
